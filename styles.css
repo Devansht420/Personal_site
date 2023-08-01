@@ -1,0 +1,114 @@
+.top-container{
+    padding-top: 50px;
+    position: relative;
+    background-color: rgb(226, 252, 252);
+}
+hr{
+    border-style: none;
+    border-top: 8px dotted #c9dddd;
+    width: 4%;
+    margin-bottom: 50px;
+}
+h1{
+    padding-top: 100px;
+    margin: 0;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.6rem; 
+    color: #66BFBF;
+}
+.h-2{
+    font-weight: normal;
+    margin-top: 66.4px;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+.footer-link{
+    color: #11999E;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+body{
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+.top-cloud{
+    position: absolute;
+    left: 62%;
+}
+.bottom-cloud{
+    position:absolute; 
+}
+
+.bottom-container{
+    background-color: #66BFBF;
+    padding-top: 40px;
+}
+.pimage{
+    height: 180px;
+    width: 180px;
+}
+.simage{
+    border-radius: 10%;
+    height: 25%;
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.simage2{
+    border-radius: 30%;
+    height: 25%;
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.skill-row{     
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+    margin-bottom: 200px;
+}
+.bottom-text{
+    color: #EAF6F6;
+    padding-top: 30px;
+    margin-bottom: 0px;
+}
+.contact-me{
+    margin-bottom: 50px;
+}
+.pre-btn{
+    margin-bottom: 40px;
+}
+.profile{
+    margin: 40px;
+    margin-bottom: 60px;
+}
+.btn{
+        -webkit-border-radius: 20px;
+        -moz-border-radius: 20px;
+        border-radius: 20px;
+        color: #F7F7F7;
+        font-family: Times New Roman;
+        font-size: 27px;
+        font-weight: 100;
+        padding: 26px;
+        background-color: #27D5E7;
+        -webkit-box-shadow: 0 0 3px 1px #000000;
+        -moz-box-shadow: 0 0 3px 1px #000000;
+        box-shadow: 0 0 3px 1px #000000;
+        text-shadow: 0 0 40px #000000;
+        border: solid #000000 0;
+        text-decoration: none;
+        display: inline-block;
+        cursor: pointer;
+        text-align: center;
+}
